@@ -11,4 +11,4 @@ title = "Getting married in Hawaii"
 
 ### Rings
 
-info on getting married in Hawaii
+info on getting married in Hawaii.
