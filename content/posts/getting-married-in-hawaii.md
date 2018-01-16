@@ -1,5 +1,6 @@
 +++
 date = "2018-01-15T14:57:55Z"
+draft = true
 title = "Getting married in Hawaii"
 
 +++
@@ -11,4 +12,4 @@ title = "Getting married in Hawaii"
 
 ### Rings
 
-info on getting married in Hawaii.
+Information on getting married in Hawaii.
