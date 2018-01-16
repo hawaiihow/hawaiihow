@@ -1,4 +1,6 @@
 ---
+pages:
+- posts/getting-married-in-hawaii.md
 hide_body: false
 fields:
 - name: title
