@@ -1,5 +1,5 @@
 title = "Hawaii How"
-baseURL = "https://hawaiihow.com"
+baseURL = "http://hawaiihow.com"
 languageCode = "en-us"
 theme = "ananke"
 
